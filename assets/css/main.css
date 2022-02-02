@@ -1663,3 +1663,7 @@ input, select, textarea {
 h1{
 	color: rgba(99, 99, 0, 0.8);
 }
+.topPic{
+	width: 10vw;
+	height: 10vh;
+}
