@@ -1661,7 +1661,7 @@ input, select, textarea {
 		}
 
 h1{
-	color: rgba(225, 225, 225, 0.8);
+	color: rgba(224, 224, 224, 0.8);
 	-webkit-text-stroke: 1px black;
 	text-shadow: .4em 0 .4em rgba(0, 0, 0, 0.5), .4em .4em .4em rgba(0, 0, 0, 0.8);
 
