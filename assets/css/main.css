@@ -1666,10 +1666,6 @@ h1{
 	text-shadow: .4em 0 .4em rgba(0, 0, 0, 0.5), .4em .4em .4em rgba(0, 0, 0, 0.8);
 
 }
-.topPic{
-	width: 10vw;
-	height: 10vh;
-}
-.aboutPic{
+span{
 	display: flex;
 }
