@@ -1666,6 +1666,8 @@ h1{
 	text-shadow: .4em 0 .4em rgba(0, 0, 0, 0.5), .4em .4em .4em rgba(0, 0, 0, 0.8);
 
 }
-span{
-	display: flex;
+.topPic{
+	height: 5vh;
+	width: auto;
+	border-radius: 50%;
 }
