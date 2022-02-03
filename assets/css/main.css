@@ -1671,6 +1671,5 @@ h1{
 	height: 10vh;
 }
 .aboutPic{
-	height: 10vh;
-	width: auto;
+	display: flex;
 }
