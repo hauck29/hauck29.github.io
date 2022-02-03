@@ -1670,3 +1670,7 @@ h1{
 	width: 10vw;
 	height: 10vh;
 }
+.aboutPic{
+	height: 10vh;
+	width: auto;
+}
